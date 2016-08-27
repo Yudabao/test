@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 The MIT License (MIT)
 
 Copyright (c) 2016 石国庆
@@ -22,6 +23,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 =======
+=======
+>>>>>>> f5e24a40cc70675abed4a1039a2716e64fe59023
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -211,6 +214,7 @@ SOFTWARE.
       identification within third-party archives.
 
    Copyright {yyyy} {name of copyright owner}
+<<<<<<< HEAD
 =======
 Apache License
 Version 2.0, January 2004
@@ -392,24 +396,34 @@ third-party archives.
 
    Copyright 2016 魚大宝
 >>>>>>> b11084d6a3c0fe15c763b776e30034f796fbec62
+=======
+>>>>>>> f5e24a40cc70675abed4a1039a2716e64fe59023
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
    You may obtain a copy of the License at
 
 <<<<<<< HEAD
+<<<<<<< HEAD
        http://www.apache.org/licenses/LICENSE-2.0
 =======
      http://www.apache.org/licenses/LICENSE-2.0
 >>>>>>> b11084d6a3c0fe15c763b776e30034f796fbec62
+=======
+       http://www.apache.org/licenses/LICENSE-2.0
+>>>>>>> f5e24a40cc70675abed4a1039a2716e64fe59023
 
    Unless required by applicable law or agreed to in writing, software
    distributed under the License is distributed on an "AS IS" BASIS,
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
 <<<<<<< HEAD
+<<<<<<< HEAD
    limitations under the License.
 >>>>>>> ed08d7a8fe9eee44da1f454268bd59013429b4fe
 =======
    limitations under the License.
 >>>>>>> b11084d6a3c0fe15c763b776e30034f796fbec62
+=======
+   limitations under the License.
+>>>>>>> f5e24a40cc70675abed4a1039a2716e64fe59023
